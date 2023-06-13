@@ -1,3 +1,9 @@
+Członkowie zespołu:
+Kamil Kurka, Bartłomiej Krawczyk
+
+Kod gry zotał wygenerowany przez Chat GPT.
+Grafika początkowa została wygenerowana za pomocą AI Greem.
+
 Instrukcja obsługi:
 
 Uruchomienie gry:
